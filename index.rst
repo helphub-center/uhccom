@@ -1,4 +1,4 @@
-Activate UHC Account at activate.uhc.com
+How to Activate UHC Using Your Member ID?
 =======================================
 
 A simple and step-by-step guide to activate your UnitedHealthcare (UHC) account online using your Member ID.
