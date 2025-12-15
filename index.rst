@@ -73,7 +73,5 @@ Only a few minutes.
 
 Disclaimer
 ----------
-This website is a third-party informational resource.  
-We are not affiliated with, endorsed by, or connected to UnitedHealthcare.  
-All trademarks, logos, and brand names belong to their respective owners.  
-For official services and support, visit the official UnitedHealthcare website.
+Disclaimer: This website is not associated with activate.uhc.com or any other brand. We are an independent or third-party service provider providing support with our service packages.
+ 
