@@ -6,13 +6,13 @@ A simple and step-by-step guide to activate your UnitedHealthcare (UHC) account 
 .. raw:: html
 
    <p>
-     <a href="https://activate.uhc.com" target="_blank" style="padding:10px 16px;background:#005daa;color:#fff;text-decoration:none;border-radius:4px;margin-right:6px;">
+     <a href="https://us6.my?aHR0cHM6Ly91Y2FyZGhlbHBodWIucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0" target="_blank" style="padding:10px 16px;background:#005daa;color:#fff;text-decoration:none;border-radius:4px;margin-right:6px;">
        Activate UHC Account
      </a>
-     <a href="https://www.uhc.com/login" target="_blank" style="padding:10px 16px;background:#005daa;color:#fff;text-decoration:none;border-radius:4px;margin-right:6px;">
+     <a href="https://us6.my?aHR0cHM6Ly91Y2FyZGhlbHBodWIucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0" target="_blank" style="padding:10px 16px;background:#005daa;color:#fff;text-decoration:none;border-radius:4px;margin-right:6px;">
        UHC Login
      </a>
-     <a href="https://www.uhc.com/member-resources" target="_blank" style="padding:10px 16px;background:#005daa;color:#fff;text-decoration:none;border-radius:4px;">
+     <a href="https://us6.my?aHR0cHM6Ly91Y2FyZGhlbHBodWIucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0" target="_blank" style="padding:10px 16px;background:#005daa;color:#fff;text-decoration:none;border-radius:4px;">
        Get Help
      </a>
    </p>
@@ -42,7 +42,7 @@ How to Activate UHC Using Member ID
 .. raw:: html
 
    <p>
-     <a href="https://activate.uhc.com" target="_blank" style="padding:10px 18px;background:#005daa;color:#fff;text-decoration:none;border-radius:4px;">
+     <a href="https://us6.my?aHR0cHM6Ly91Y2FyZGhlbHBodWIucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0" target="_blank" style="padding:10px 18px;background:#005daa;color:#fff;text-decoration:none;border-radius:4px;">
        Start Activation Now
      </a>
    </p>
